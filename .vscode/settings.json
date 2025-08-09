@@ -1,4 +1,0 @@
-{
-    "go.inlayHints.constantValues": true,
-    "go.inlayHints.functionTypeParameters": true
-}
